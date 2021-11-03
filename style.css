@@ -21,7 +21,11 @@ html {
 
 #footer{
   height: 20px;
-  background-color:white;
+  background-color:grey;
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
   }
 
 input
